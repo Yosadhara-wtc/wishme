@@ -9,7 +9,8 @@ npm install wishme --save
 
 ## Usage
 
-var wishme = require('wishme')
+var wishme = require('wishme');
+
 wishme.wish('Give Your Name');
 
 ## test
